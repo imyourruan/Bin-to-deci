@@ -1,2 +1,2 @@
-# Bin-to-deci
+# Binario Para Decimal 
 Conversor de binário para decimal em python 
